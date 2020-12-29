@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "数字で振り返る2020年"
+date:   2020-12-29 18:00:46 +0900
+categories: jekyll update
+---
+#### 2 journal papers, 1 conference paper
+研究室3年目はメインテーマである深層学習 x 医療で1報、またsingle cell RNA-seqを活用したプロジェクトで2報。COVID-19以前から取り組んでいたヒト肺のsingle cell atlasプロジェクトはNatureに掲載されものすごい勢いで引用されています。
+![My helpful screenshot](/assets/ar_2020_1.png)
+
+#### 1015 citations, h-index 33
+Google Scholarによると過去に発表した論文はこの１年間で合計1015回引用されたとのこと。 年末時点でのh-indexは3つ増えて33でした。
+![My helpful screenshot](/assets/ar_2020_2.png)
+
+#### 1 new lab and 21 new lab members
+深層学習x医療のラボは7名の増員。10月から加えて担当することになった深層学習xバイオロジーのラボは14名。だいぶ大所帯になりました。COVID-19の影響で集合写真を撮る機会がまだありません。
+![My helpful screenshot](/assets/ar_2020_3.png)
+
+#### 93964 queries, 1393 new users
+9年目に入ったGene Expression Commonsはユーザー増加率も鈍ることなく、引き続き世界中から活発に利用していただいています。
+![My helpful screenshot](/assets/ar_2020_4.png)
+
+#### 25 flights, 31959 miles
+「来年はラボに腰を据えてじっくり研究したいのですが」と書たが、まさかパンデミックが起こるとは！2月にカリフォルニアとロンドンに出張したきり、ずっと国内に。
+![My helpful screenshot](/assets/ar_2020_5.png)
+
+#### 8000 km
+4年目の点検でタイヤをDunlop Direzza DZ102に交換したらこれがロードスターにぴったりマッチして、今年は走行距離が伸びました。
+![My helpful screenshot](/assets/ar_2020_6.png)
+
+#### 1 additional SIGMA fp
+突然の在宅勤務にZoom会議6連荘という生活様式にSIGMA fpがあまりに活躍してもう1台買ってしまいました。今年登場したミラーレス専用設計の85mm f1.4や35mm f2.0のレンズもすばらしい。
+![My helpful screenshot](/assets/ar_2020_7.png)
+
+来年は2021年、あるいは令和3年
+運転免許は無事更新して次は5年後。パスポートは2017年12月に更新しました。
