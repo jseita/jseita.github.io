@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "数字で振り返る2021年"
+date:   2021-12-29 18:00:46 +0900
+categories: jekyll update
+---
+#### 2 journal papers, 2 conference papers, 1 book, 1 patent
+Medicine x Deep Learningの研究室を立ち上げて4年目。今年はヘルスケア領域における機械学習のトップカンファレンスの1つ、Machine Learning for Health Careに論文が採択されました。同時に採択されたApple, Google Brain, MIT, Stanford等と肩を並べることができました。
+![My helpful screenshot](/assets/ar_2021_1.png)
+
+#### 1289 citations, h-index 35
+Google Scholarによると過去に発表した論文はこの１年間で合計1289回引用されたとのこと。 年末時点でのh-indexは2つ増えて35でした。
+![My helpful screenshot](/assets/ar_2021_2.png)
+
+#### 1 new lab and 1 new lab members
+理研・生命医科学研究センターの統合ゲノミクス研究チーム、同・情報統合本部・先端データサイエンスプロジェクト・医療データ深層学習チームに加えて、10月から同・情報統合本部・基盤研究開発部門・医科学データ共有開発ユニットのユニットリーダーにも着任しました。
+![My helpful screenshot](/assets/ar_2021_3.png)
+
+#### 87891 queries, 1815 new users
+10年目に入ったGene Expression Commonsはユーザー増加率も鈍ることなく、引き続き世界中から活発に利用していただいています。
+![My helpful screenshot](/assets/ar_2021_4.png)
+
+#### 7 flights, 5638 miles
+記録によると13年ぶりに国際線フライト無し！
+![My helpful screenshot](/assets/ar_2021_5.png)
+
+#### 4700 km + 3000 km
+ピュアガソリンエンジンの最後の車を何にするか、迷いに迷った挙句、同じロードスターの2Lエンジンに乗り換え。やはりこの運転の楽しさは唯一無二です。
+![My helpful screenshot](/assets/ar_2021_6.png)
+
+#### 2 new cameras
+iPhone 13 Proは、もはや通信機能付きカメラ（しかも3つ）と言って良いのでは？！
+![My helpful screenshot](/assets/ar_2021_7.png)
+
+SIGMA fpはオールドレンズの愉しみを覚えたり、センサーの画素数が増えたfp LにFoveonの時のようなゾクゾク感を覚えたり。
+![My helpful screenshot](/assets/ar_2021_8.png)
+
+来年は2022年、あるいは令和4年。運転免許は無事更新して次は2025年。パスポートは2017年12月に更新しました。
